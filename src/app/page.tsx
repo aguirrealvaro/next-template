@@ -69,7 +69,9 @@ export default function Home() {
             )}
           >
             <pre>
-              <code>npx create-next-app -e https://github.com/aguirrealvaro/next-aa-app</code>
+              <code>
+                npx create-next-app -e https://github.com/aguirrealvaro/next-template
+              </code>
             </pre>
             <CopyButton />
           </div>

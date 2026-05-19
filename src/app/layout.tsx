@@ -8,7 +8,7 @@ import { cn } from "@/lib/cn";
 import { ThemeProvider } from "@/providers";
 
 export const metadata: Metadata = {
-  title: "next-aa-app",
+  title: "next-template",
   description:
     "NextJS boilerplate with Tailwind, Typescript, Dark Mode, ESLint, Prettier, Precommit and more...",
 };
@@ -30,11 +30,11 @@ const RootLayout = ({ children }: RootLayoutProps) => {
         <ErrorBoundary>
           <ThemeProvider>
             <header className="flex items-center justify-center gap-4 py-8">
-              <h1 className="text-2xl font-semibold">next-aa-app</h1>
+              <h1 className="text-2xl font-semibold">next-template</h1>
               <div className="flex items-center gap-2">
                 <ThemeToggle />
                 <a
-                  href="https://github.com/aguirrealvaro/next-aa-app"
+                  href="https://github.com/aguirrealvaro/next-template"
                   target="_blank"
                   className="rounded p-2 transition hover:bg-hover-primary"
                 >

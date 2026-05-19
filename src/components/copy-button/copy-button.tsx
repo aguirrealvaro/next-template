@@ -9,7 +9,7 @@ const CopyButton = () => {
 
   const copyCommand = () => {
     navigator.clipboard.writeText(
-      "npx create-next-app -e https://github.com/aguirrealvaro/next-aa-app"
+      "npx create-next-app -e https://github.com/aguirrealvaro/next-template"
     );
     setIsCopied((isCopied) => !isCopied);
   };
