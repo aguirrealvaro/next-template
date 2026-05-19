@@ -1,6 +1,6 @@
-# next-aa-app
+# next-template
 
-[https://template.aguirrealvaro.dev/](https://template.aguirrealvaro.dev/)
+[https://next-template.aguirrealvaro.dev/](https://next-template.aguirrealvaro.dev/)
 
 Next boilerplate with the following features:
 
